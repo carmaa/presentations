@@ -1,4 +1,4 @@
-presentations
+Presentations
 =============
 
-My public presentation archive
+My public presentation archive.
